@@ -1,1 +1,1 @@
-my first new subdirectory
+three subdirectories are stated in this directory
